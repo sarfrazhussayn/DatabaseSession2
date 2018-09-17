@@ -1,0 +1,11 @@
+E:\source\repos\DatabaseSession2\DatabaseSession2\bin\Debug\DatabaseSession2.exe.config
+E:\source\repos\DatabaseSession2\DatabaseSession2\bin\Debug\DatabaseSession2.exe
+E:\source\repos\DatabaseSession2\DatabaseSession2\bin\Debug\DatabaseSession2.pdb
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.csprojAssemblyReference.cache
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.Properties.Resources.resources
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.csproj.GenerateResource.cache
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.csproj.CoreCompileInputs.cache
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.exe
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.pdb
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.frmSearch.resources
+E:\source\repos\DatabaseSession2\DatabaseSession2\obj\Debug\DatabaseSession2.ProfileViewer.resources
